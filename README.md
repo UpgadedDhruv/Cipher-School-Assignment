@@ -1,4 +1,4 @@
-# Problem: City Watchtowers (Humanized Statement)
+# Problem: City Watchtowers 
 
 Aurum is a coastal city planning to place watchtowers on top of selected skyline buildings.
 
